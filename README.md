@@ -42,9 +42,15 @@ Details: [Economic model](docs/economics/model.md)
 - [Charter](CHARTER.md) — how we govern ourselves
 - Governance: [Voting](docs/governance/voting.md) · [Proposal lifecycle](docs/governance/proposal-lifecycle.md) · [Reputation](docs/governance/reputation.md)
 - Economics: [Model](docs/economics/model.md) · [IP & licensing](docs/economics/ip-and-licensing.md) · [Legal entity options](docs/economics/legal-entity-options.md)
-- [Brand](docs/brand.md) · [Roadmap](docs/roadmap.md) · [Open questions](docs/open-questions.md)
+- [Brand](docs/brand.md) · [Accounts](docs/accounts.md) · [Roadmap](docs/roadmap.md) · [Open questions](docs/open-questions.md)
 - [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Join
 
-The Union is in its founding phase. To become a founding member, read the [Manifesto](MANIFESTO.md) and [Contributing](CONTRIBUTING.md), then introduce yourself. *(Community channels to be announced.)*
+The Union is in its founding phase. To become a founding member, read the [Manifesto](MANIFESTO.md) and [Contributing](CONTRIBUTING.md), then introduce yourself:
+
+- Reddit: [r/unitedradicals](https://www.reddit.com/r/unitedradicals/)
+- GitHub: [github.com/unitedradicals](https://github.com/unitedradicals)
+- X: [@unitedradicals](https://x.com/unitedradicals) · [LinkedIn](https://www.linkedin.com/company/unitedradicals) · [Facebook](https://www.facebook.com/UnitedRadicals/)
+- Discord: *invite link coming soon*
+- Email: [hello@unitedradicals.com](mailto:hello@unitedradicals.com)

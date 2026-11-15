@@ -8,9 +8,11 @@
 - [x] Founding documents v0.1 (this repository)
 - [ ] Founder review of Manifesto tone and Charter numbers
 - [x] Choose final name: **United Radicals**
-- [ ] Register the unitedradicals .com, .org and .dev domains and claim the social handles
+- [x] Register the unitedradicals .com, .org and .dev domains and claim the social handles (see [Accounts](accounts.md))
+- [x] Official email (Zoho): admin@, hello@, stewards@
 - [ ] Simple landing page with a sign-up form
-- [ ] Community spaces: GitHub Discussions (proposals) + Discord (chat)
+- [x] Community spaces created: GitHub organization, Discord server, r/unitedradicals
+- [ ] Turn on GitHub Discussions for proposals; set up Discord channels
 - [ ] Soft launch to personal networks; recruit the first 25 founding members
 - [ ] **Ratification vote** of the Charter by founding members
 - [ ] First Stewards Council election

@@ -7,7 +7,8 @@
 
 - [x] Founding documents v0.1 (this repository)
 - [ ] Founder review of Manifesto tone and Charter numbers
-- [ ] Choose final name; reserve domain and social handles
+- [x] Choose final name: **United Radicals**
+- [ ] Register the unitedradicals .com, .org and .dev domains and claim the social handles
 - [ ] Simple landing page with a sign-up form
 - [ ] Community spaces: GitHub Discussions (proposals) + Discord (chat)
 - [ ] Soft launch to personal networks; recruit the first 25 founding members

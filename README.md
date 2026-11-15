@@ -1,12 +1,16 @@
-# Playline Union
+# United √adicals
 
-> *Working name.* A worker-owned collective of software engineers displaced by AI — building better software, together, and sharing what it earns.
+> **They deprecated us. We united.**
+>
+> A worker-owned collective of software engineers displaced by AI — building radical software, together, and sharing what it earns.
+
+🌐 [unitedradicals.com](https://unitedradicals.com) · [Brand](docs/brand.md)
 
 **Status:** Phase 0 — founding documents (v0.1 draft, not yet ratified)
 
 ## What is this?
 
-AI has reshaped the software industry, and many skilled engineers lost their jobs in the process. Playline Union brings them together into a **worker-owned enterprise** where members:
+AI has reshaped the software industry, and many skilled engineers lost their jobs in the process. **United Radicals** (also called "the Union" in these docs) brings them together into a **worker-owned enterprise** where members:
 
 - **Propose** ideas for products and services worth building
 - **Vote** on which ideas the Union commits to
@@ -38,7 +42,7 @@ Details: [Economic model](docs/economics/model.md)
 - [Charter](CHARTER.md) — how we govern ourselves
 - Governance: [Voting](docs/governance/voting.md) · [Proposal lifecycle](docs/governance/proposal-lifecycle.md) · [Reputation](docs/governance/reputation.md)
 - Economics: [Model](docs/economics/model.md) · [IP & licensing](docs/economics/ip-and-licensing.md) · [Legal entity options](docs/economics/legal-entity-options.md)
-- [Roadmap](docs/roadmap.md) · [Open questions](docs/open-questions.md)
+- [Brand](docs/brand.md) · [Roadmap](docs/roadmap.md) · [Open questions](docs/open-questions.md)
 - [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Join

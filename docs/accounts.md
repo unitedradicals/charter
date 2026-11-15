@@ -20,9 +20,9 @@ Every official account, who controls it, and which email it's tied to. **No pass
 ## Domains
 | Domain | Registrar | DNS | Expires | Auto-renew |
 |---|---|---|---|---|
-| unitedradicals.com | AWS Route 53 | Route 53 | *to confirm* | *to confirm* |
-| unitedradicals.org | Cloudflare | Cloudflare | *to confirm* | *to confirm* |
-| unitedradicals.dev | Cloudflare | Cloudflare | 2027-11-15 | *to confirm* |
+| unitedradicals.com | AWS Route 53 | Route 53 | 2027-11-15 | On |
+| unitedradicals.org | Cloudflare | Cloudflare | 2027-11-15 | On |
+| unitedradicals.dev | Cloudflare | Cloudflare | 2027-11-15 | On |
 
 Registrar accounts (AWS, Cloudflare) are currently held by the founder. Move them to `admin@`, or add it as a member, before the first Stewards election.
 
@@ -32,12 +32,12 @@ Registrar accounts (AWS, Cloudflare) are currently held by the founder. Move the
 | GitHub | [github.com/unitedradicals](https://github.com/unitedradicals) | Organization; contact email `admin@` | Owned by the founder's GitHub account. Add a second owner. |
 | X | [x.com/unitedradicals](https://x.com/unitedradicals) | `admin@` | Standalone brand account. |
 | Reddit | [r/unitedradicals](https://www.reddit.com/r/unitedradicals/) | Created by the founder's personal account; moderated by [u/unitedradicals](https://www.reddit.com/user/unitedradicals) (`admin@`) | Launch posts in other subreddits come from personal accounts, not the brand account. |
-| Discord | *invite link to be added* | Server owner: `admin@` | Use a non-expiring invite. |
+| Discord | [discord.gg/nnrpbgHU3R](https://discord.gg/nnrpbgHU3R) | Server owner: `admin@` | Use a non-expiring invite. |
 | LinkedIn | [linkedin.com/company/unitedradicals](https://www.linkedin.com/company/unitedradicals) | Company page managed by the founder's personal profile | LinkedIn pages have no separate login. Add a second admin. |
 | Facebook | [facebook.com/UnitedRadicals](https://www.facebook.com/UnitedRadicals/) | Page managed by the founder's personal profile; public contact `hello@` | Add a second admin. |
 
 ## Open items
-- [ ] Confirm expiry dates and turn on auto-renew for all domains
+- [x] Confirm expiry dates and turn on auto-renew for all domains
 - [ ] Add second admins/owners on GitHub, LinkedIn and Facebook (once a trusted co-founder or Steward exists)
-- [ ] Add the Discord invite link
+- [x] Add the Discord invite link
 - [ ] Move the registrar accounts to `admin@`

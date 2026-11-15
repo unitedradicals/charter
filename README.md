@@ -47,7 +47,7 @@ Details: [Economic model](docs/economics/model.md)
 
 ## Join
 
-The Union is in its founding phase. To become a founding member, read the [Manifesto](MANIFESTO.md) and [Contributing](CONTRIBUTING.md), then introduce yourself:
+The Union is in its founding phase. To become a founding member, read the [Manifesto](MANIFESTO.md) and [Contributing](CONTRIBUTING.md), then **[introduce yourself](https://github.com/unitedradicals/charter/discussions/1)**. Find us at:
 
 - Reddit: [r/unitedradicals](https://www.reddit.com/r/unitedradicals/)
 - GitHub: [github.com/unitedradicals](https://github.com/unitedradicals)

@@ -9,7 +9,7 @@ The Union is a worker-owned collective that proposes, builds, and sells software
 ## 2. Membership
 
 - **2.1 Eligibility.** Open to software professionals (engineers, designers, PMs, QA, DevOps, etc.), with priority on those displaced by AI-driven layoffs.
-- **2.2 Joining.** A candidate introduces themselves, agrees to this Charter and the [Code of Conduct](CODE_OF_CONDUCT.md), and signs the Contributor Agreement (see [IP & licensing](docs/economics/ip-and-licensing.md)).
+- **2.2 Joining.** A candidate introduces themselves in the [Introductions](https://github.com/unitedradicals/charter/discussions/categories/introductions) discussion category (this is the official membership record, and the post's date counts as the join date), agrees to this Charter and the [Code of Conduct](CODE_OF_CONDUCT.md), and signs the Contributor Agreement (see [IP & licensing](docs/economics/ip-and-licensing.md)).
 - **2.3 Member states.**
   - **Active** — has contributed in the last **90 days [placeholder]**. Counts toward quorum.
   - **Dormant** — keeps membership and earned revenue rights; does not count toward quorum. Becomes Active again on any contribution.

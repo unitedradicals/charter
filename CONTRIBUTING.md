@@ -2,6 +2,18 @@
 
 Thanks for wanting to build with us. During Phase 0, everything happens in this repository and in our community channels.
 
+## Step 1: Introduce yourself
+Read the [welcome post](https://github.com/unitedradicals/charter/discussions/1) and start your own discussion in **[Introductions](https://github.com/unitedradicals/charter/discussions/categories/introductions)** using its template. This is how you officially join (see [Charter §2.2](CHARTER.md)). For casual chat, join us on [Discord](https://discord.gg/nnrpbgHU3R).
+
+## Where things happen
+| Discussion category | Use it for |
+|---|---|
+| 👋 Introductions | Joining: one post per new member |
+| 💡 Ideas | Early, informal ideas before they become proposals |
+| 🗳️ Proposals | Formal proposals (or open an issue with the Proposal template) |
+| ❓ Q&A | Questions about the Union, governance and processes |
+| 📣 Announcements | Official news from the Stewards (read-only) |
+
 ## Ways to contribute right now
 1. **Improve the founding documents.** Open a pull request or discussion on any doc. Everything is v0.1 — challenge it.
 2. **Answer an [open question](docs/open-questions.md).** Bring research, experience, or a concrete recommendation.

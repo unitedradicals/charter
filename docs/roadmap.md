@@ -6,16 +6,17 @@
 **Goal:** a credible vision and a founding group of 25–50 members.
 
 - [x] Founding documents v0.1 (this repository)
-- [ ] Founder review of Manifesto tone and Charter numbers
+- [x] Founder review of Manifesto tone; Charter numbers go to the [Founding round](founding-round.md)
 - [x] Choose final name: **United Radicals**
 - [x] Register the unitedradicals .com, .org and .dev domains and claim the social handles (see [Accounts](accounts.md))
 - [x] Official email (Zoho): admin@, hello@, stewards@
-- [ ] Simple landing page with a sign-up form
+- [x] Landing page with a sign-up form: [unitedradicals.com](https://unitedradicals.com)
 - [x] Community spaces created: GitHub organization, Discord server, r/unitedradicals
-- [ ] Turn on GitHub Discussions for proposals; set up Discord channels
-- [ ] Soft launch to personal networks; recruit the first 25 founding members
-- [ ] **Ratification vote** of the Charter by founding members
-- [ ] First Stewards Council election
+- [x] Turn on GitHub Discussions for proposals
+- [ ] Set up Discord channels and roles
+- [ ] Soft launch to personal networks (from Nov 18); recruit the first 25 founding members
+- [ ] **Ratification vote** of the Charter by founding members (Dec 7–13, see [Founding round](founding-round.md))
+- [ ] First Stewards Council election (January 2027)
 
 ## Phase 1 — First win (~2 → 6 months)
 **Goal:** prove the model works by shipping something and earning first revenue.

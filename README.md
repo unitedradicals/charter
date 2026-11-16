@@ -42,7 +42,7 @@ Details: [Economic model](docs/economics/model.md)
 - [Charter](CHARTER.md) — how we govern ourselves
 - Governance: [Voting](docs/governance/voting.md) · [Proposal lifecycle](docs/governance/proposal-lifecycle.md) · [Reputation](docs/governance/reputation.md)
 - Economics: [Model](docs/economics/model.md) · [IP & licensing](docs/economics/ip-and-licensing.md) · [Legal entity options](docs/economics/legal-entity-options.md)
-- [Brand](docs/brand.md) · [Accounts](docs/accounts.md) · [Roadmap](docs/roadmap.md) · [Open questions](docs/open-questions.md)
+- [Brand](docs/brand.md) · [Accounts](docs/accounts.md) · [Roadmap](docs/roadmap.md) · [Founding round](docs/founding-round.md) · [Open questions](docs/open-questions.md)
 - [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Join

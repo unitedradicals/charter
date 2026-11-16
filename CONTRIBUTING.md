@@ -15,11 +15,12 @@ Read the [welcome post](https://github.com/unitedradicals/charter/discussions/1)
 | 📣 Announcements | Official news from the Stewards (read-only) |
 
 ## Ways to contribute right now
-1. **Improve the founding documents.** Open a pull request or discussion on any doc. Everything is v0.1 — challenge it.
-2. **Answer an [open question](docs/open-questions.md).** Bring research, experience, or a concrete recommendation.
-3. **Submit a proposal** for something the Union should build (see below).
-4. **Back a proposal** you would personally commit hours to.
-5. **Recruit.** Know a great engineer who was laid off? Invite them.
+1. **Join the [Founding round](docs/founding-round.md)** (until Dec 13): help set the Charter's final rules and pick what we build first.
+2. **Improve the founding documents.** Open a pull request or discussion on any doc. Everything is v0.1 — challenge it.
+3. **Answer an [open question](docs/open-questions.md).** Bring research, experience, or a concrete recommendation.
+4. **Submit a proposal** for something the Union should build (see below).
+5. **Back a proposal** you would personally commit hours to.
+6. **Recruit.** Know a great engineer who was laid off? Invite them.
 
 ## Submitting a proposal
 1. Open a new issue using the **Proposal** template (`.github/ISSUE_TEMPLATE/proposal.md`).

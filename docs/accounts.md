@@ -2,7 +2,7 @@
 
 Every official account, who controls it, and which email it's tied to. **No passwords or 2FA codes in this file. Ever.** Credentials live in the Stewards' password manager.
 
-*Last updated: 2026-11-15*
+*Last updated: after 2026-11-16 (website and signup launch)*
 
 ## Rules
 1. Official logins use `@unitedradicals.com` addresses, so they belong to the Union rather than to a person.
@@ -20,9 +20,9 @@ Every official account, who controls it, and which email it's tied to. **No pass
 ## Domains
 | Domain | Registrar | DNS | Expires | Auto-renew |
 |---|---|---|---|---|
-| unitedradicals.com | AWS Route 53 | Route 53 | 2027-11-15 | On |
-| unitedradicals.org | Cloudflare | Cloudflare | 2027-11-15 | On |
-| unitedradicals.dev | Cloudflare | Cloudflare | 2027-11-15 | On |
+| unitedradicals.com | AWS Route 53 | Cloudflare | 2027-11-15 | On |
+| unitedradicals.org | Cloudflare | Cloudflare (301 redirect to .com) | 2027-11-15 | On |
+| unitedradicals.dev | Cloudflare | Cloudflare (301 redirect to .com) | 2027-11-15 | On |
 
 Registrar accounts (AWS, Cloudflare) are currently held by the founder. Move them to `admin@`, or add it as a member, before the first Stewards election.
 
@@ -32,9 +32,16 @@ Registrar accounts (AWS, Cloudflare) are currently held by the founder. Move the
 | GitHub | [github.com/unitedradicals](https://github.com/unitedradicals) | Organization; contact email `admin@` | Owned by the founder's GitHub account. Add a second owner. |
 | X | [x.com/unitedradicals](https://x.com/unitedradicals) | `admin@` | Standalone brand account. |
 | Reddit | [r/unitedradicals](https://www.reddit.com/r/unitedradicals/) | Created by the founder's personal account; moderated by [u/unitedradicals](https://www.reddit.com/user/unitedradicals) (`admin@`) | Launch posts in other subreddits come from personal accounts, not the brand account. |
-| Discord | [discord.gg/nnrpbgHU3R](https://discord.gg/nnrpbgHU3R) | Server owner: `admin@` | Use a non-expiring invite. |
+| Discord | [discord.gg/nnrpbgHU3R](https://discord.gg/nnrpbgHU3R) | Server owner: `admin@` | Use a non-expiring invite. The private `#signups` channel receives Tally signups through the Tally bot, which can only see that channel. |
 | LinkedIn | [linkedin.com/company/unitedradicals](https://www.linkedin.com/company/unitedradicals) | Company page managed by the founder's personal profile | LinkedIn pages have no separate login. Add a second admin. |
 | Facebook | [facebook.com/UnitedRadicals](https://www.facebook.com/UnitedRadicals/) | Page managed by the founder's personal profile; public contact `hello@` | Add a second admin. |
+
+## Website & tools
+| Service | What | Login / owner | Notes |
+|---|---|---|---|
+| Cloudflare Workers | Hosts unitedradicals.com (Worker `unitedradicals-website`) | Founder's Cloudflare account | Deploys automatically from [unitedradicals/website](https://github.com/unitedradicals/website) on every push to `main`. |
+| Tally | Founding member signup form (`VpPElN`) | `admin@` | Notifications go to `admin@` and Discord `#signups`. Holds members' personal data (see the [privacy policy](https://unitedradicals.com/privacy)). |
+| Zoho Mail | Email for unitedradicals.com | `admin@` | Free plan. |
 
 ## Open items
 - [x] Confirm expiry dates and turn on auto-renew for all domains

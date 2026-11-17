@@ -29,7 +29,7 @@ Registrar accounts (AWS, Cloudflare) are currently held by the founder. Move the
 ## Platforms
 | Platform | URL | Login / owner | Notes |
 |---|---|---|---|
-| GitHub | [github.com/unitedradicals](https://github.com/unitedradicals) | Organization; contact email `admin@` | Owned by the founder's GitHub account. Add a second owner. |
+| GitHub | [github.com/unitedradicals](https://github.com/unitedradicals) | Organization; public email `hello@` | Owned by the founder's GitHub account. Add a second owner. The org profile page comes from the public `unitedradicals/.github` repo (`profile/README.md`). |
 | X | [x.com/unitedradicals](https://x.com/unitedradicals) | `admin@` | Standalone brand account. |
 | Reddit | [r/unitedradicals](https://www.reddit.com/r/unitedradicals/) | Created by the founder's personal account; moderated by [u/unitedradicals](https://www.reddit.com/user/unitedradicals) (`admin@`) | Launch posts in other subreddits come from personal accounts, not the brand account. |
 | Discord | [unitedradicals.com/discord](https://unitedradicals.com/discord) | Server owner: `admin@` | Always link to unitedradicals.com/discord: it redirects to the current invite (set in the website's `public/_redirects`). If the invite changes, update only that file. The invite itself is created on `#start-here` and never expires. The private `#signups` channel receives Tally signups through the Tally bot, which can only see that channel. |

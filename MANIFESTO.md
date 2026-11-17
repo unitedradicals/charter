@@ -6,6 +6,8 @@
 
 AI has changed how software is made. Companies discovered they could ship with fewer people, and many of us — engineers with years of hard-won experience — were let go.
 
+But the lesson runs both ways. If companies need fewer people, good ideas need fewer layers. Inside a company, an idea waits for budgets, roadmaps and rounds of sign-off before it reaches a single user, and many never do. We can take it straight from the people who see the problem to the people who have it.
+
 We do not believe our skills became worthless. We believe they became **unowned**. For decades our work created enormous value that flowed to others. The same tools that displaced us now make it possible for a small, coordinated group of experienced engineers to build what once took an entire company.
 
 So we will build it ourselves — and own it together.

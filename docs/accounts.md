@@ -32,7 +32,7 @@ Registrar accounts (AWS, Cloudflare) are currently held by the founder. Move the
 | GitHub | [github.com/unitedradicals](https://github.com/unitedradicals) | Organization; contact email `admin@` | Owned by the founder's GitHub account. Add a second owner. |
 | X | [x.com/unitedradicals](https://x.com/unitedradicals) | `admin@` | Standalone brand account. |
 | Reddit | [r/unitedradicals](https://www.reddit.com/r/unitedradicals/) | Created by the founder's personal account; moderated by [u/unitedradicals](https://www.reddit.com/user/unitedradicals) (`admin@`) | Launch posts in other subreddits come from personal accounts, not the brand account. |
-| Discord | [discord.gg/nnrpbgHU3R](https://discord.gg/nnrpbgHU3R) | Server owner: `admin@` | Use a non-expiring invite. The private `#signups` channel receives Tally signups through the Tally bot, which can only see that channel. |
+| Discord | [unitedradicals.com/discord](https://unitedradicals.com/discord) | Server owner: `admin@` | Always link to unitedradicals.com/discord: it redirects to the current invite (set in the website's `public/_redirects`). If the invite changes, update only that file. The invite itself is created on `#start-here` and never expires. The private `#signups` channel receives Tally signups through the Tally bot, which can only see that channel. |
 | LinkedIn | [linkedin.com/company/unitedradicals](https://www.linkedin.com/company/unitedradicals) | Company page managed by the founder's personal profile | LinkedIn pages have no separate login. Add a second admin. |
 | Facebook | [facebook.com/UnitedRadicals](https://www.facebook.com/UnitedRadicals/) | Page managed by the founder's personal profile; public contact `hello@` | Add a second admin. |
 

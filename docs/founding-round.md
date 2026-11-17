@@ -22,6 +22,6 @@ The 14-day membership age for voting ([Voting § Anti-abuse](governance/voting.m
 1. **Join:** sign up at [unitedradicals.com](https://unitedradicals.com/#join) and [introduce yourself](https://github.com/unitedradicals/charter/discussions/1).
 2. **Discuss:** in the ratification threads, propose concrete values and say why. Use 👍 on comments you agree with.
 3. **Propose:** post ideas in Ideas, and back the ones you'd really put hours into.
-4. **Talk:** weekly call on [Discord](https://discord.gg/nnrpbgHU3R), **Thursdays at 18:00 Sofia time (16:00 UTC)**. Notes are posted in Discussions → General.
+4. **Talk:** weekly call on [Discord](https://unitedradicals.com/discord), **Thursdays at 18:00 Sofia time (16:00 UTC)**. Notes are posted in Discussions → General.
 
 **Nobody is paid yet.** Revenue is shared once what we build earns money, as set out in the [economic model](economics/model.md).

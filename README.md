@@ -52,5 +52,5 @@ The Union is in its founding phase. To become a founding member, read the [Manif
 - Reddit: [r/unitedradicals](https://www.reddit.com/r/unitedradicals/)
 - GitHub: [github.com/unitedradicals](https://github.com/unitedradicals)
 - X: [@unitedradicals](https://x.com/unitedradicals) · [LinkedIn](https://www.linkedin.com/company/unitedradicals) · [Facebook](https://www.facebook.com/UnitedRadicals/)
-- Discord: [discord.gg/nnrpbgHU3R](https://discord.gg/nnrpbgHU3R)
+- Discord: [discord.gg/nnrpbgHU3R](https://unitedradicals.com/discord)
 - Email: [hello@unitedradicals.com](mailto:hello@unitedradicals.com)

@@ -3,7 +3,7 @@
 Thanks for wanting to build with us. During Phase 0, everything happens in this repository and in our community channels.
 
 ## Step 1: Introduce yourself
-Read the [welcome post](https://github.com/unitedradicals/charter/discussions/1) and start your own discussion in **[Introductions](https://github.com/unitedradicals/charter/discussions/categories/introductions)** using its template. This is how you officially join (see [Charter §2.2](CHARTER.md)). For casual chat, join us on [Discord](https://discord.gg/nnrpbgHU3R).
+Read the [welcome post](https://github.com/unitedradicals/charter/discussions/1) and start your own discussion in **[Introductions](https://github.com/unitedradicals/charter/discussions/categories/introductions)** using its template. This is how you officially join (see [Charter §2.2](CHARTER.md)). For casual chat, join us on [Discord](https://unitedradicals.com/discord).
 
 ## Where things happen
 | Discussion category | Use it for |
